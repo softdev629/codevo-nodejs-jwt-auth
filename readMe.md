@@ -1,4 +1,4 @@
-# JWT Authentication and Authorization with React, RTK Query, Material UI, React Hook Form and Zod.
+# JWT Authentication and Authorization
 
 ## 1. Node.js + TypeScript + MongoDB: JWT Authentication
 
@@ -42,8 +42,6 @@ In this article, you'll learn how to add JSON Web Token (JWT) Authentication to 
   - Get Currently Logged in User's Credentials
   - Admin Get All Users
 
-Read the entire article here: [https://codevoweb.com/node-typescript-mongodb-jwt-authentication/](https://codevoweb.com/node-typescript-mongodb-jwt-authentication/)
-
 ## 2. Node.js + TypeScript + MongoDB: JWT Refresh Token
 
 In this article, you'll learn how to implement JWT Authentication with an Access and a Refresh token using Node.js, TypeScript, MongoDB, Redis, and Docker.
@@ -63,5 +61,3 @@ In this article, you'll learn how to implement JWT Authentication with an Access
 - Create a Controller to Logout User
 - Update the Authentication Routes
 - Update app.ts
-
-Read the entire article here: [https://codevoweb.com/react-node-access-refresh-tokens-authentication/](https://codevoweb.com/react-node-access-refresh-tokens-authentication/)
